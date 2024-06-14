@@ -1,0 +1,429 @@
+.hero1-header1 {
+  height: 100%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.hero1-max-width {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center;
+}
+.hero1-navlink {
+  display: contents;
+}
+.hero1-container {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: stretch;
+  padding-top: 35%;
+  flex-direction: row;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.hero1-image1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+.hero1-root-class-name {
+  height: 50%;
+}
+.hero1-root-class-name1 {
+  height: 50%;
+}
+@media(max-width: 991px) {
+  .hero1-container {
+    width: 100%;
+    padding-top: 56.25%;
+  }
+}
+
+.content-list6-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.content-list6-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: flex-start;
+  flex-direction: row;
+}
+.content-list6-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: stretch;
+  padding-top: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: center;
+}
+.content-list6-link {
+  text-decoration: none;
+}
+.content-list6-link1 {
+  text-decoration: none;
+}
+.content-list6-link2 {
+  text-decoration: none;
+}
+.content-list6-container2 {
+  width: auto;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.content-list6-container3 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list6-ul {
+  align-items: flex-start;
+}
+.content-list6-li {
+  align-items: flex-start;
+}
+.content-list6-heading7 {
+  align-self: center;
+  text-align: center;
+  font-family: "Istok Web";
+}
+.content-list6-ul1 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+.content-list6-heading8 {
+  font-family: "Istok Web";
+}
+.content-list6-content8 {
+  font-family: "Istok Web";
+}
+.content-list6-heading81 {
+  font-family: "Istok Web";
+}
+.content-list6-content81 {
+  font-family: "Istok Web";
+}
+.content-list6-heading82 {
+  font-family: "Istok Web";
+}
+.content-list6-content82 {
+  font-family: "Istok Web";
+}
+.content-list6-heading9 {
+  font-family: "Istok Web";
+}
+.content-list6-content9 {
+  font-family: "Istok Web";
+}
+.content-list6-heading901 {
+  font-family: "Istok Web";
+}
+.content-list6-content901 {
+  font-family: "Istok Web";
+}
+.content-list6-heading902 {
+  font-family: "Istok Web";
+}
+.content-list6-content902 {
+  font-family: "Istok Web";
+}
+.content-list6-heading903 {
+  font-family: "Istok Web";
+}
+.content-list6-content903 {
+  font-family: "Istok Web";
+}
+.content-list6-heading904 {
+  font-family: "Istok Web";
+}
+.content-list6-content904 {
+  font-family: "Istok Web";
+}
+.content-list6-container4 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list6-ul2 {
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.content-list6-li09 {
+  align-items: flex-start;
+}
+.content-list6-heading71 {
+  align-self: center;
+  text-align: center;
+  font-family: "Istok Web";
+}
+.content-list6-ul3 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+.content-list6-heading83 {
+  font-family: "Istok Web";
+}
+.content-list6-content83 {
+  font-family: "Istok Web";
+}
+.content-list6-heading905 {
+  font-family: "Istok Web";
+}
+.content-list6-content905 {
+  font-family: "Istok Web";
+}
+.content-list6-heading906 {
+  font-family: "Istok Web";
+}
+.content-list6-content906 {
+  font-family: "Istok Web";
+}
+.content-list6-heading907 {
+  font-family: "Istok Web";
+}
+.content-list6-content907 {
+  font-family: "Istok Web";
+}
+.content-list6-heading908 {
+  font-family: "Istok Web";
+}
+.content-list6-content908 {
+  font-family: "Istok Web";
+}
+.content-list6-heading909 {
+  font-family: "Istok Web";
+}
+.content-list6-content909 {
+  font-family: "Istok Web";
+}
+.content-list6-heading910 {
+  font-family: "Istok Web";
+}
+.content-list6-content910 {
+  font-family: "Istok Web";
+}
+.content-list6-container5 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list6-ul4 {
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.content-list6-li17 {
+  align-items: flex-start;
+}
+.content-list6-heading72 {
+  align-self: center;
+  text-align: center;
+  font-family: "Istok Web";
+}
+.content-list6-ul5 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+.content-list6-heading84 {
+  font-family: "Istok Web";
+}
+.content-list6-content84 {
+  font-family: "Istok Web";
+}
+.content-list6-heading911 {
+  font-family: "Istok Web";
+}
+.content-list6-content911 {
+  font-family: "Istok Web";
+}
+.content-list6-heading912 {
+  font-family: "Istok Web";
+}
+.content-list6-content912 {
+  font-family: "Istok Web";
+}
+.content-list6-heading913 {
+  font-family: "Istok Web";
+}
+.content-list6-content913 {
+  font-family: "Istok Web";
+}
+.content-list6-heading914 {
+  font-family: "Istok Web";
+}
+.content-list6-content914 {
+  font-family: "Istok Web";
+}
+.content-list6-heading915 {
+  font-family: "Istok Web";
+}
+.content-list6-content915 {
+  font-family: "Istok Web";
+}
+@media(max-width: 767px) {
+  .content-list6-max-width {
+    align-items: center;
+    flex-direction: column;
+  }
+  .content-list6-container1 {
+    align-self: center;
+  }
+  .content-list6-container2 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .content-list6-ul1 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+  .content-list6-ul3 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+  .content-list6-ul5 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 479px) {
+  .content-list6-max-width {
+    flex-direction: column;
+  }
+  .content-list6-container1 {
+    align-self: center;
+  }
+  .content-list6-ul1 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .content-list6-ul3 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .content-list6-ul5 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+}
+
+.footer4-footer7 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer4-max-width {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.footer4-content {
+  gap: var(--dl-space-space-twounits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.footer4-logo {
+  gap: 24px;
+  display: none;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.footer4-logo1 {
+  height: 2rem;
+}
+.footer4-credits {
+  gap: var(--dl-space-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.footer4-row {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.footer4-container {
+  display: flex;
+  align-items: flex-start;
+}
+.footer4-text {
+  font-family: "Istok Web";
+}
+.footer4-link {
+  text-decoration: underline;
+}
+.footer4-footer-links {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+.footer4-text2 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  font-size: 16px;
+  font-family: "Istok Web";
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.footer4-text3 {
+  font-size: 16px;
+  font-family: "Istok Web";
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.footer4-text4 {
+  font-size: 16px;
+  font-family: "Istok Web";
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+@media(max-width: 767px) {
+  .footer4-row {
+    gap: var(--dl-space-space-oneandhalfunits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+@media(max-width: 479px) {
+  .footer4-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .footer4-text {
+    text-align: center;
+  }
+  .footer4-footer-links {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.legal-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-accent1);
+}

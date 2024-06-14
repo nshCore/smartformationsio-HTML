@@ -1,0 +1,262 @@
+.content-list6-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.content-list6-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: flex-start;
+  flex-direction: row;
+}
+.content-list6-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: stretch;
+  padding-top: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: center;
+}
+.content-list6-link {
+  text-decoration: none;
+}
+.content-list6-link1 {
+  text-decoration: none;
+}
+.content-list6-link2 {
+  text-decoration: none;
+}
+.content-list6-container2 {
+  width: auto;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.content-list6-container3 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list6-ul {
+  align-items: flex-start;
+}
+.content-list6-li {
+  align-items: flex-start;
+}
+.content-list6-heading7 {
+  align-self: center;
+  text-align: center;
+  font-family: "Istok Web";
+}
+.content-list6-ul1 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+.content-list6-heading8 {
+  font-family: "Istok Web";
+}
+.content-list6-content8 {
+  font-family: "Istok Web";
+}
+.content-list6-heading81 {
+  font-family: "Istok Web";
+}
+.content-list6-content81 {
+  font-family: "Istok Web";
+}
+.content-list6-heading82 {
+  font-family: "Istok Web";
+}
+.content-list6-content82 {
+  font-family: "Istok Web";
+}
+.content-list6-heading9 {
+  font-family: "Istok Web";
+}
+.content-list6-content9 {
+  font-family: "Istok Web";
+}
+.content-list6-heading901 {
+  font-family: "Istok Web";
+}
+.content-list6-content901 {
+  font-family: "Istok Web";
+}
+.content-list6-heading902 {
+  font-family: "Istok Web";
+}
+.content-list6-content902 {
+  font-family: "Istok Web";
+}
+.content-list6-heading903 {
+  font-family: "Istok Web";
+}
+.content-list6-content903 {
+  font-family: "Istok Web";
+}
+.content-list6-heading904 {
+  font-family: "Istok Web";
+}
+.content-list6-content904 {
+  font-family: "Istok Web";
+}
+.content-list6-container4 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list6-ul2 {
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.content-list6-li09 {
+  align-items: flex-start;
+}
+.content-list6-heading71 {
+  align-self: center;
+  text-align: center;
+  font-family: "Istok Web";
+}
+.content-list6-ul3 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+.content-list6-heading83 {
+  font-family: "Istok Web";
+}
+.content-list6-content83 {
+  font-family: "Istok Web";
+}
+.content-list6-heading905 {
+  font-family: "Istok Web";
+}
+.content-list6-content905 {
+  font-family: "Istok Web";
+}
+.content-list6-heading906 {
+  font-family: "Istok Web";
+}
+.content-list6-content906 {
+  font-family: "Istok Web";
+}
+.content-list6-heading907 {
+  font-family: "Istok Web";
+}
+.content-list6-content907 {
+  font-family: "Istok Web";
+}
+.content-list6-heading908 {
+  font-family: "Istok Web";
+}
+.content-list6-content908 {
+  font-family: "Istok Web";
+}
+.content-list6-heading909 {
+  font-family: "Istok Web";
+}
+.content-list6-content909 {
+  font-family: "Istok Web";
+}
+.content-list6-heading910 {
+  font-family: "Istok Web";
+}
+.content-list6-content910 {
+  font-family: "Istok Web";
+}
+.content-list6-container5 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list6-ul4 {
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.content-list6-li17 {
+  align-items: flex-start;
+}
+.content-list6-heading72 {
+  align-self: center;
+  text-align: center;
+  font-family: "Istok Web";
+}
+.content-list6-ul5 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+.content-list6-heading84 {
+  font-family: "Istok Web";
+}
+.content-list6-content84 {
+  font-family: "Istok Web";
+}
+.content-list6-heading911 {
+  font-family: "Istok Web";
+}
+.content-list6-content911 {
+  font-family: "Istok Web";
+}
+.content-list6-heading912 {
+  font-family: "Istok Web";
+}
+.content-list6-content912 {
+  font-family: "Istok Web";
+}
+.content-list6-heading913 {
+  font-family: "Istok Web";
+}
+.content-list6-content913 {
+  font-family: "Istok Web";
+}
+.content-list6-heading914 {
+  font-family: "Istok Web";
+}
+.content-list6-content914 {
+  font-family: "Istok Web";
+}
+.content-list6-heading915 {
+  font-family: "Istok Web";
+}
+.content-list6-content915 {
+  font-family: "Istok Web";
+}
+@media(max-width: 767px) {
+  .content-list6-max-width {
+    align-items: center;
+    flex-direction: column;
+  }
+  .content-list6-container1 {
+    align-self: center;
+  }
+  .content-list6-container2 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .content-list6-ul1 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+  .content-list6-ul3 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+  .content-list6-ul5 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 479px) {
+  .content-list6-max-width {
+    flex-direction: column;
+  }
+  .content-list6-container1 {
+    align-self: center;
+  }
+  .content-list6-ul1 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .content-list6-ul3 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .content-list6-ul5 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+}
